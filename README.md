@@ -1,17 +1,8 @@
-<a href="https://frontend.code-inspector.com/public/user/github/chinnam-sowmya">
-   <img src="https://code-inspector.com/public/badge/user/github/chinnam-sowmya?style=light" alt="code inspector badge" />
-   <img  src="https://www.code-inspector.com/project/27776/score/svg" />
-   <img src="https://www.code-inspector.com/project/27776/status/svg" />
-
-</a>
-
-
-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7244000ceab247a29b12f1a61dc0fee6)](https://www.codacy.com/gh/chinnam-sowmya/sowmya_stepin_Tic-tac-toe/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chinnam-sowmya/sowmya_stepin_Tic-tac-toe&amp;utm_campaign=Badge_Grade)
 
+[![Valgrind](https://github.com/Sonalika22/M1_TicTacTeo-Game/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Sonalika22/M1_TicTacTeo-Game/actions/workflows/Valgrind.yml)
 
-
-
+[![cppcheck-action](https://github.com/Sonalika22/M1_TicTacTeo-Game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sonalika22/M1_TicTacTeo-Game/actions/workflows/cppcheck.yml)
 
 
 
